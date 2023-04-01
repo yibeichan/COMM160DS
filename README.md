@@ -1,6 +1,12 @@
 # COMM 160DS Syllabus
 
-Data Science in Communication: Python and Reproducible Research
+**Data Science in Communication: Python and Reproducible Research**
+
+**Instructor:** Yibei Chen
+
+**Lecture:** Tuesdays/Thursdays 12\:30-1:45 pm (Arts Building, 1349)
+
+**Office Hours:** Thursdays 2\:00-4:00 pm, SSMS \#4111
 
 **Canvas:** [Link](https://ucsb.instructure.com/courses/7864)(UCSB Students Only)
 
