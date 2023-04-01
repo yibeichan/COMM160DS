@@ -2,9 +2,9 @@
 
 Data Science in Communication: Python and Reproducibility
 
-**Canvas:** [link](!https://ucsb.instructure.com/courses/7864)(UCSB ID needed)
+**Canvas:** [link](https://ucsb.instructure.com/courses/7864)(UCSB ID needed)
 
-**GitHub Classroom:** [link](!https://classroom.github.com/classrooms/128882250-comm160ds-s23)
+**GitHub Classroom:** [link](https://classroom.github.com/classrooms/128882250-comm160ds-s23)
 
 ## Course Description:
 This 10-week course introduces senior undergraduates in the Department of Communication to the fundamentals of data science using Python, focusing on reproducible research practices. Students will learn essential Python libraries, data visualization techniques, statistical methods, and principles of reproducible research to analyze and interpret data in the context of communication and social science research. By the end of the course, students will be able to apply these skills to a final project analyzing real-world communication data while ensuring their work is transparent, shareable, and reproducible.
