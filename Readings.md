@@ -12,15 +12,6 @@ Here are the weekly mandatory and optional readings, as well as some learning re
 
 1.  Software Carpentry: Version Control with Git: [Link](https://swcarpentry.github.io/git-novice/)
 
-## Week 2:
-
-1. Python Data Structures Explained: Article
-2. Python Functions: Tutorial
-3. Git and GitHub Crash Course: Video
-4. Introduction to Git and GitHub: Article
-5. Clean Code in Python: Article
-6. Data Provenance and Management: Article
-
 ## Other Resources:
 
 1. Python for Data Science Handbook by Jake VanderPlas: [Link](https://jakevdp.github.io/PythonDataScienceHandbook/)
