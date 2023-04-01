@@ -1,14 +1,16 @@
-# COMM 160DS Syllabus
+# COMM 160DS Syllabus (Spring 2023)
 
 **Data Science in Communication: Python and Reproducible Research**
 
 **Instructor:** Yibei Chen
 
-**Lecture:** Tuesdays/Thursdays 12\:30-1:45 pm (Arts Building, 1349)
+**Lectures:** Tuesdays/Thursdays 12\:30-1:45 pm (Arts Building, 1349)
 
 **Office Hours:** Thursdays 2\:00-4:00 pm, SSMS \#4111
 
-**Canvas:** [Link](https://ucsb.instructure.com/courses/7864)(UCSB Students Only)
+**Canvas:** [Link](https://ucsb.instructure.com/courses/7864) (UCSB Students Only)
+
+**JupyterHub:** [Link](https://comm160ds.lsit.ucsb.edu)
 
 **GitHub Classroom:** [Link](https://classroom.github.com/classrooms/128882250-comm160ds-s23)
 
