@@ -139,7 +139,7 @@ Please take this [survey](https://forms.gle/dkTaauehBxCDqvpf8) before **04/04/20
 
 ## Acknowledgement 
 
-![ReproNim](pics/repronim.png) ![UCSBCOMM](pics/ucsbcomm.png)
+![ReproNim](pics/repronim.png)    ![UCSBCOMM](pics/ucsbcomm.png)
 
 ## Contribution
 
