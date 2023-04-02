@@ -35,7 +35,7 @@ Please take this [survey](https://forms.gle/dkTaauehBxCDqvpf8) before **04/04/20
 
 **Readings:** [Link](Readings.md#week-1-introduction-to-data-science-python-and-reproducible-research)
 
-**Assignment:** [Link](Week\ 1/Assignment.md)
+**Assignment:** [Link](COMM160DS/Week 1/Assignment.md)
 
 ## Week 2: 
 
