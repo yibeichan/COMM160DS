@@ -8,7 +8,7 @@
 
 **Office Hours:** Thursdays 2\:00-4:00 pm, SSMS \#4111
 
-**Canvas:** [Link](https://ucsb.instructure.com/courses/7864) (UCSB Students Only)
+**Canvas:** [Link](https://ucsb.instructure.com/courses/7864) (Registered Students Only)
 
 **JupyterHub:** [Link](https://comm160ds.lsit.ucsb.edu)
 
