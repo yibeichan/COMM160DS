@@ -19,6 +19,12 @@ This 10-week course introduces senior undergraduates in the Department of Commun
 
 ## Course Structure: 
 Weekly lectures on Tuesdays and Thursdays (1 hour and 15 minutes each), hands-on coding exercises, homework assignments, and a final group-project.
+## Learning Objectives:
+
+- How to **think** as a Data Scientist
+- How to conduct work in a **Reproducible** way
+- How to **use** Python packages not to develop packages/algorithms 
+- How to **apply** learned skills to real world data
 
 ## Pre-Course Survey
 
@@ -35,7 +41,7 @@ Please take this [survey](https://forms.gle/dkTaauehBxCDqvpf8) before **04/04/20
 
 **Readings:** [Link](Readings.md#week-1-introduction-to-data-science-python-and-reproducible-research)
 
-**Assignment:** [Link](Week_1/Assignment.md)
+**Assignment:** [Link](week_1/Assignment.md)
 
 ## Week 2: 
 
@@ -130,3 +136,11 @@ Please take this [survey](https://forms.gle/dkTaauehBxCDqvpf8) before **04/04/20
 - Part 2: Discussing challenges, lessons learned, course wrap-up, and next steps in data science for communication research
 
 **Readings:** TBD
+
+## Acknowledgement 
+
+![ReproNim](pics/repronim.png)
+
+## Contribution
+
+The current repo is maintained by @yibeichan only. Feel free to open an PR if you identify any errors here. You are welcome to use/fork this repo for your own course. 

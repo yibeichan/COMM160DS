@@ -6,7 +6,7 @@ Here are the weekly mandatory and optional readings, as well as some learning re
 
 - Real Python: Introduction to Jupyter Notebooks: [Link](https://realpython.com/jupyter-notebook-introduction/)
 - How to use Git / GitHub with Jupyter Notebook: [Link](https://blog.reviewnb.com/github-jupyter-notebook/)
-- Reproducibility in the Social Sciences: [Paper](Readings/week1_Moody_et_al_2022.pdf)
+- Reproducibility in the Social Sciences: [Paper](readings/week1_Moody_et_al_2022.pdf)
 
 ### Optional
 
