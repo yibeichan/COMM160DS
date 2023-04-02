@@ -139,29 +139,8 @@ Please take this [survey](https://forms.gle/dkTaauehBxCDqvpf8) before **04/04/20
 
 ## Acknowledgement 
 
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-  .image-container {
-    display: flex;
-  }
-  .image-container img {
-    width: 45%; /* Set the width to 45% of the container */
-    height: auto; /* This will maintain the aspect ratio */
-  }
-</style>
-</head>
-<body>
-
-<div class="image-container">
-  <img src="pics/repronim.png" alt="ReproNim">
-  <img src="pics/ucsbcomm.png" alt="UCSBCOMM">
-</div>
-
-</body>
-</html>
+![ReproNim](pics/repronim.png) ![UCSBCOMM](pics/ucsbcomm.png)
 
 ## Contribution
 
-The current repo is maintained by [@yibeichan](https://github.com/yibeichan) only. Feel free to open an PR if you identify any errors here. You are welcome to use/fork this repo for your own course. 
+The current repo is maintained by @yibeichan only. Feel free to open an PR if you identify any errors here. You are welcome to use/fork this repo for your own course. 
