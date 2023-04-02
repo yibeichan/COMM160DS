@@ -4,9 +4,9 @@ Here are the weekly mandatory and optional readings, as well as some learning re
 
 ## Week 1: Introduction to Data Science, Python, and Reproducible Research
 
-1.  Real Python: Introduction to Jupyter Notebooks: [Link](https://realpython.com/jupyter-notebook-introduction/)
-2. How to use Git / GitHub with Jupyter Notebook: [Link](https://blog.reviewnb.com/github-jupyter-notebook/)
-3. Reproducibility in the Social Sciences: [Paper](Readings/week1_Moody_et_al_2022.pdf)
+- Real Python: Introduction to Jupyter Notebooks: [Link](https://realpython.com/jupyter-notebook-introduction/)
+- How to use Git / GitHub with Jupyter Notebook: [Link](https://blog.reviewnb.com/github-jupyter-notebook/)
+- Reproducibility in the Social Sciences: [Paper](Readings/week1_Moody_et_al_2022.pdf)
 
 ### Optional
 
@@ -14,6 +14,8 @@ Here are the weekly mandatory and optional readings, as well as some learning re
 
 ## Other Resources:
 
-1. Python for Data Science Handbook by Jake VanderPlas: [Link](https://jakevdp.github.io/PythonDataScienceHandbook/)
-2. Guide for Accelerating Computational Reproducibility in the Social Sciences: [Link](https://bitss.github.io/ACRE/)
-3. Social Science Reproduction Platform: [Link](https://www.socialsciencereproduction.org/)
+- Python for Data Science Handbook by Jake VanderPlas: [Link](https://jakevdp.github.io/PythonDataScienceHandbook/)
+- Guide for Accelerating Computational Reproducibility in the Social Sciences: [Link](https://bitss.github.io/ACRE/)
+- Social Science Reproduction Platform: [Link](https://www.socialsciencereproduction.org/)
+- The Good Research Code Handbook: [Link](https://goodresearch.dev/index.html) 
+- Awesome Computational Social Science: [Link](https://github.com/gesiscss/awesome-computational-social-science) 

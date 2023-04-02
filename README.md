@@ -15,7 +15,7 @@
 **GitHub Classroom:** [Link](https://classroom.github.com/classrooms/128882250-comm160ds-s23)
 
 ## Course Description:
-This 10-week course introduces senior undergraduates in the Department of Communication to the fundamentals of data science using Python, focusing on reproducible research practices. Students will learn essential Python libraries, data visualization techniques, statistical methods, and principles of reproducible research to analyze and interpret data in the context of communication and social science research. By the end of the course, students will be able to apply these skills to a final project analyzing real-world communication data while ensuring their work is transparent, shareable, and reproducible.
+This 10-week course introduces senior undergraduates in the Department of Communication to the fundamentals of data science using Python, focusing on reproducible research practices. Students will learn essential Python libraries, data visualization techniques, and principles of reproducible research to analyze and interpret data in the context of communication and social science research. By the end of the course, students will be able to apply these skills to a final project analyzing real-world communication data while ensuring their work is transparent, shareable, and reproducible.
 
 ## Course Structure: 
 Weekly lectures on Tuesdays and Thursdays (1 hour and 15 minutes each), hands-on coding exercises, homework assignments, and a final group-project.
@@ -35,7 +35,7 @@ Please take this [survey](https://forms.gle/dkTaauehBxCDqvpf8) before **04/04/20
 
 **Readings:** [Link](Readings.md#week-1-introduction-to-data-science-python-and-reproducible-research)
 
-**Assignment:** TBD
+**Assignment:** [Link](Week 1/Assignment.md)
 
 ## Week 2: 
 
