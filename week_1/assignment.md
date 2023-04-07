@@ -16,7 +16,7 @@ Get the [Student Developer Pack](https://education.github.com/pack)
 
 1. Accept the link in my email and then you will find your own repo with your GitHub username as suffix [here](https://github.com/orgs/ReproTeach/repositories) (you can use the search bar to find it). Go to your repo and open it
 2. Pull GitHub Repo to JupyterHub using [nbgitpuller](https://hub.jupyter.org/nbgitpuller/link)
-![nbgitpuller](pics/repronim.png)
+![nbgitpuller](../pics/nbgitpuller.png)
 
     - put our JupyterHub link at **B**
     - put your repo url, which should have your username as suffix, at **C**
