@@ -6,13 +6,13 @@
 
 Get the [Student Developer Pack](https://education.github.com/pack)
 
-## 2. DataCamp assignment (5%)
+## 2. DataCamp assignment (4%)
 
 1. Accept the link in my email
 2. Finish the two assignments (GitHub and Git) 
 3. (04/07/23 updated) Add one more assignment (the whole course about Git)
 
-## 3. GitHub Classroom assignment (1%)
+## 3. GitHub Classroom assignment (2%)
 
 1. Accept the link in my email and then you will find your own repo with your GitHub username as suffix [here](https://github.com/orgs/ReproTeach/repositories) (you can use the search bar to find it). Go to your repo and open it
 2. Pull GitHub Repo to JupyterHub using [nbgitpuller](https://hub.jupyter.org/nbgitpuller/link)
