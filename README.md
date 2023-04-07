@@ -41,7 +41,7 @@ Please take this [survey](https://forms.gle/dkTaauehBxCDqvpf8) before **04/04/20
 - Part 1: Welcome, course overview, and importance of data science in communication studies
 - Part 2: Reproducible research principles, introduction to JupyterHub and Jupyter Notebook
 
-**Lectures:** [Tuesday](week_1/part2.pdf)
+**Lectures:** [Tuesday](week_1/lecture_part1.pdf) [Thursday](week_1/lecture_part2.pdf) 
 
 **Readings:** [Link](Readings.md#week-1-introduction-to-data-science-python-and-reproducible-research)
 
