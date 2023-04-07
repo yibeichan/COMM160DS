@@ -10,7 +10,7 @@ Get the [Student Developer Pack](https://education.github.com/pack)
 
 1. Accept the link in my email
 2. Finish the two assignments (GitHub and Git) 
-3. (04/07/23 updated)Add one more assignment (the whole course about Git)
+3. (04/07/23 updated) Add one more assignment (the whole course about Git)
 
 ## 3. GitHub Classroom assignment (1%)
 
