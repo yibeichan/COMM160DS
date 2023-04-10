@@ -12,6 +12,15 @@ Here are the weekly mandatory and optional readings, as well as some learning re
 
 1.  Software Carpentry: Version Control with Git: [Link](https://swcarpentry.github.io/git-novice/)
 
+## Week 2: Python Data Structures, Functions, and Reproducible Code
+
+- Python Lists: [Link](https://www.w3schools.com/python/python_lists.asp)
+- Python Tuples: [Link](https://www.w3schools.com/python/python_tuples.asp)
+- Python Sets: [Link](https://www.w3schools.com/python/python_sets.asp)
+- Python Dictionaries: [Link](https://www.w3schools.com/python/python_dictionaries.asp)
+- Python Function: [Link](https://www.w3schools.com/python/python_functions.asp)
+- Version Control with Git: [Link](https://swcarpentry.github.io/git-novice/)
+
 ## Other Resources:
 
 - Python for Data Science Handbook by Jake VanderPlas: [Link](https://jakevdp.github.io/PythonDataScienceHandbook/)

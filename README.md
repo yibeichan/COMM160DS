@@ -54,7 +54,7 @@ Please take this [survey](https://forms.gle/dkTaauehBxCDqvpf8) before **04/04/20
 - Part 1: Python data structures: lists, tuples, dictionaries, and sets
 - Part 2: Python functions, modules, and introduction to version control with Git and GitHub
 
-**Readings:** TBD
+**Lectures:** 
 
 **Assignment:** TBD
 
