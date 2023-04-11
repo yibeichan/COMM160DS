@@ -10,7 +10,7 @@
 
 **Canvas:** [Link](https://ucsb.instructure.com/courses/7864) (Registered Students Only)
 
-**JupyterHub:** [Link](https://comm160ds.lsit.ucsb.edu)
+**JupyterHub:** [Link](https://comm160ds.lsit.ucsb.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fyibeichan%2FCOMM160DS&urlpath=lab%2Ftree%2FCOMM160DS%2F&branch=main)
 
 **GitHub Classroom:** See link on Canvas or my email
 
