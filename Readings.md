@@ -18,6 +18,7 @@ Here are the weekly mandatory and optional readings, as well as some learning re
 - Python Tuples: [Link](https://www.w3schools.com/python/python_tuples.asp)
 - Python Sets: [Link](https://www.w3schools.com/python/python_sets.asp)
 - Python Dictionaries: [Link](https://www.w3schools.com/python/python_dictionaries.asp)
+- Numpy Basics: [Link](https://numpy.org/doc/stable/user/absolute_beginners.html)
 - Python Function: [Link](https://www.w3schools.com/python/python_functions.asp)
 - Version Control with Git: [Link](https://swcarpentry.github.io/git-novice/)
 
