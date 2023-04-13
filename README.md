@@ -58,7 +58,7 @@ Please take this [survey](https://forms.gle/dkTaauehBxCDqvpf8) before **04/04/20
 
 **Readings:** [Link](Readings.md#week-2-python-data-structures-functions-and-reproducible-code)
 
-**In-class Exercise:** [Link](https://classroom.github.com/a/oTp1RJQ9)
+**In-class Exercise:** [Link](https://classroom.github.com/a/oTp1RJQ9) [Instruction](week_2/assignment.md#in-class-exercise-friday-04142023-night)
 
 **Assignment:** [Link](week_2/assignment.md)
 
