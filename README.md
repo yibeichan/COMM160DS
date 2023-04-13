@@ -58,7 +58,7 @@ Please take this [survey](https://forms.gle/dkTaauehBxCDqvpf8) before **04/04/20
 
 **Readings:** [Link](Readings.md#week-2-python-data-structures-functions-and-reproducible-code)
 
-**Assignment:** TBD
+**Assignment:** [Link](week_2/assignment.md)
 
 ## Week 3: 
 
