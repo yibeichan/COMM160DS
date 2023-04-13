@@ -2,7 +2,7 @@
 
 ## DataCamp
 
-If you couldn't find our group `COMM160DS`, follow this [link](https://support.datacamp.com/hc/en-us/articles/4409828327959-Navigating-DataCamp-Learn-Workspace-Certification-Groups)
+If you couldn't find our group `COMM 160DS`, follow this [link](https://support.datacamp.com/hc/en-us/articles/4409828327959-Navigating-DataCamp-Learn-Workspace-Certification-Groups)
 
 ### Course:
 
