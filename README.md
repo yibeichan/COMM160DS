@@ -52,7 +52,7 @@ Please take this [survey](https://forms.gle/dkTaauehBxCDqvpf8) before **04/04/20
 **Python Data Structures, Functions, and Reproducible Code**
 
 - Part 1: Python data structures: lists, tuples, dictionaries, and sets
-- Part 2: Python functions, modules, and introduction to version control with Git and GitHub
+- Part 2: Numpy, Python functions, and modules
 
 **Lectures:** [Tuesday](week_2/lecture_part1.ipynb) [Thursday](week_2/lecture_part2.ipynb)
 
@@ -69,7 +69,9 @@ Please take this [survey](https://forms.gle/dkTaauehBxCDqvpf8) before **04/04/20
 - Part 1: Introduction to Pandas library, data cleaning, and transformation
 - Part 2: Data aggregation, data provenance, and reproducible data preparation workflows
 
-**Readings:** TBD
+**Lectures:** [Tuesday](week_2/lecture_part1.ipynb)
+
+**Readings:** [Link](Readings.md#week-3-data-manipulation-with-pandas-and-data-provenance)
 
 **Assignment:** TBD
 

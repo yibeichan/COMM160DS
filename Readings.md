@@ -22,6 +22,14 @@ Here are the weekly mandatory and optional readings, as well as some learning re
 - Python Function: [Link](https://www.w3schools.com/python/python_functions.asp)
 - Version Control with Git: [Link](https://swcarpentry.github.io/git-novice/)
 
+## Week 3: Data Manipulation with Pandas and Data Provenance
+
+### Pandas Tutorial
+
+- Python Pandas Tutorial: The ultimate guide for beginners [Link](https://www.datacamp.com/tutorial/pandas)
+- Pandas Beginner's Course: [Link](https://www.kaggle.com/learn/pandas)
+- Pandas Tutorial Course: [Link](https://www.w3schools.com/python/pandas/default.asp)
+
 ## Other Resources:
 
 - Python for Data Science Handbook by Jake VanderPlas: [Link](https://jakevdp.github.io/PythonDataScienceHandbook/)
