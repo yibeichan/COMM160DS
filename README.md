@@ -75,7 +75,7 @@ Please take this [survey](https://forms.gle/dkTaauehBxCDqvpf8) before **04/04/20
 
 **In-class Exercise:** [Link](https://classroom.github.com/a/OQym4pEV)｜[Instruction](week_3/assignment.md#in-class-exercise-friday-04212023-night)
 
-**Assignment:** TBD
+**Assignment:** [Link](week_3/assignment.md)
 
 ## Week 4: 
 
