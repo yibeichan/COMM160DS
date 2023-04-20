@@ -88,6 +88,12 @@ Please take this [survey](https://forms.gle/dkTaauehBxCDqvpf8) before **04/04/20
 
 **Assignment:** TBD
 
+## Mid-Course Survey
+
+Please take this survey before **05/02/2023**
+
+<!-- This anonymous pre-course survey is designed to help us understand your current knowledge and experience in Python programming, data science, and reproducible research. Your responses will not impact your grades or standing in the course. The information collected will be used to tailor our teaching approach, ensure that the course content is relevant to your learning goals, and assess teaching outcomes. Thank you for your valuable input. -->
+
 ## Week 5: 
 
 **Descriptive Statistics, Data Exploration, and Open Science**
