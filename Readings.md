@@ -30,6 +30,11 @@ Here are the weekly mandatory and optional readings, as well as some learning re
 - Pandas Beginner's Course: [Link](https://www.kaggle.com/learn/pandas)
 - Pandas Tutorial Course: [Link](https://www.w3schools.com/python/pandas/default.asp)
 
+## Week 4: Data Visualization with Matplotlib, Seaborn, and Reproducible Reporting
+
+- Visualization with Matplotlib: [Link](https://jakevdp.github.io/PythonDataScienceHandbook/04.00-introduction-to-matplotlib.html)
+- Visualization with Seaborn: [Link](https://jakevdp.github.io/PythonDataScienceHandbook/04.14-visualization-with-seaborn.html)
+
 ## Other Resources:
 
 - Python for Data Science Handbook by Jake VanderPlas: [Link](https://jakevdp.github.io/PythonDataScienceHandbook/)

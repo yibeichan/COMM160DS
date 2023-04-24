@@ -84,9 +84,9 @@ Please take this [survey](https://forms.gle/dkTaauehBxCDqvpf8) before **04/04/20
 - Part 1: Introduction to Data Visualization with Matplotlib and Advanced Visualization with Seaborn
 - Part 2: Designing effective visualizations and reproducible reporting
 
-**Lectures:** [Tuesday](week_4/lecture_part1.ipynb) 
+**Lectures:** [Tuesday](week_4/lecture_part1.ipynb) [Thursday](week_4/lecture_part2.ipynb)
 
-**Readings:** TBD
+**Readings:** [Link](Readings.md#week-4-data-visualization-with-matplotlib-seaborn-and-reproducible-reporting)
 
 **Assignment:** TBD
 
