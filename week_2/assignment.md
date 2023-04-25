@@ -1,6 +1,6 @@
 # Week 2 Assignment 
 
-## DataCamp (Due: 04/20/2023 Midnight; 6 points)
+## DataCamp (Due: 04/20/2023 Midnight; 4 points)
 
 If you couldn't find our group `COMM 160DS`, follow this [link](https://support.datacamp.com/hc/en-us/articles/4409828327959-Navigating-DataCamp-Learn-Workspace-Certification-Groups)
 
