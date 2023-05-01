@@ -92,7 +92,7 @@ Please take this [survey](https://forms.gle/dkTaauehBxCDqvpf8) before **04/04/20
 
 ## Mid-Course Survey
 
-Please take this [survey](https://forms.gle/Vu7eb5Pn3EaJo7ZW9) before **05/02/2023**
+Please take this [survey](https://forms.gle/Vu7eb5Pn3EaJo7ZW9) before **05/04/2023**
 
 <!-- This anonymous pre-course survey is designed to help us understand your current knowledge and experience in Python programming, data science, and reproducible research. Your responses will not impact your grades or standing in the course. The information collected will be used to tailor our teaching approach, ensure that the course content is relevant to your learning goals, and assess teaching outcomes. Thank you for your valuable input. -->
 
