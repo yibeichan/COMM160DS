@@ -1,14 +1,14 @@
-# Week 3 Assignment (Due: 04/27/2023 Midnight)
+# Week 3 Assignment 
 
-## DataCamp
+## DataCamp (Due: 04/27/2023 Midnight; 4%)
 
 If you couldn't find our group `COMM 160DS`, follow this [link](https://support.datacamp.com/hc/en-us/articles/4409828327959-Navigating-DataCamp-Learn-Workspace-Certification-Groups)
 
-### Course:
+### Course
 
 1.  Data Manipulation with pandas
 
-### In-class Exercise (Friday 04/21/2023 night):
+## In-class Exercise (Due: Friday 04/21/2023 night; 4%)
 
 1. See the instructions on GitHub Classroom
 
