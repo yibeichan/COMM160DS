@@ -35,6 +35,12 @@ Here are the weekly mandatory and optional readings, as well as some learning re
 - Visualization with Matplotlib: [Link](https://jakevdp.github.io/PythonDataScienceHandbook/04.00-introduction-to-matplotlib.html)
 - Visualization with Seaborn: [Link](https://jakevdp.github.io/PythonDataScienceHandbook/04.14-visualization-with-seaborn.html)
 
+## Week 5: Data Exploration and Introduction to NLP
+
+## Natural Language Processing (NLP)
+- Natural Language Processing With Python's NLTK Package: [Link](https://realpython.com/nltk-nlp-python/)
+- A (Really) Gentle Introduction to NLP in Python: [Link](https://towardsai.net/p/nlp/natural-language-processing-nlp-with-python-tutorial-for-beginners-1f54e610a1a0)
+
 ## Other Resources:
 
 - Python for Data Science Handbook by Jake VanderPlas: [Link](https://jakevdp.github.io/PythonDataScienceHandbook/)

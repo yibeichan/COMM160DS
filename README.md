@@ -98,18 +98,20 @@ Please take this [survey](https://forms.gle/Vu7eb5Pn3EaJo7ZW9) before **05/02/20
 
 ## Week 5: 
 
-**Descriptive Statistics, Data Exploration, and Open Science**
+**Data Exploration and Introduction to NLP**
 
-- Part 1: Descriptive statistics and data exploration techniques
-- Part 2: Analyzing datasets, introduction to open science principles, and sharing research outputs
+- Part 1: Descriptive statistics, Data exploration, and open science principles
+- Part 2: Overview of text data analysis and introduction to NLP
 
-**Readings:** TBD
+**Lectures:** [Tuesday](week_5/lecture_part1.ipynb) [Thursday](week_5/lecture_part2.ipynb)
+
+**Readings:** [Link](Readings.md#week-5-data-exploration-and-introduction-to-NLP)
 
 **Assignment:** TBD
 
 ## Week 6: 
 
-**Introduction to Text Data Analysis, Social Media Data, and Natural Language Processing (NLP)**
+**Intermediate Text Data Analysis, Social Media Data, and Natural Language Processing (NLP)**
 
 - Part 1: Overview of text data analysis and introduction to NLP
 - Part 2: Exploring pre-collected social media datasets, and text preprocessing techniques
