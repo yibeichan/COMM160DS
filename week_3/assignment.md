@@ -10,6 +10,6 @@ If you couldn't find our group `COMM 160DS`, follow this [link](https://support.
 
 ## In-class Exercise (Due: Friday 04/21/2023 night; 4%)
 
-1. See the instructions on GitHub Classroom
+1. See the instructions on [GitHub Classroom](https://classroom.github.com/a/OQym4pEV)
 
 Have fun coding! It doesn't matter if things are correct or not, your thought process is more important.

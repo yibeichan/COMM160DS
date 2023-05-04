@@ -107,14 +107,14 @@ Please take this [survey](https://forms.gle/Vu7eb5Pn3EaJo7ZW9) before **05/04/20
 
 **Readings:** [Link](Readings.md#week-5-data-exploration-and-introduction-to-NLP)
 
-**Assignment:** TBD
+**Assignment:** [Link](week_5/assignment.md)
 
 ## Week 6: 
 
 **Intermediate Text Data Analysis, Social Media Data, and Natural Language Processing (NLP)**
 
-- Part 1: Overview of text data analysis and introduction to NLP
-- Part 2: Exploring pre-collected social media datasets, and text preprocessing techniques
+- Part 1: Intermediate Text Data Analysis Techniques and Introduction to Social Media Data
+- Part 2: Advanced Preprocessing Techniques and Natural Language Processing Applications for Social Media Datasets
 
 **Readings:** TBD
 
