@@ -116,9 +116,9 @@ Please take this [survey](https://forms.gle/Vu7eb5Pn3EaJo7ZW9) before **05/04/20
 - Part 1: Intermediate Text Data Analysis Techniques and Introduction to Social Media Data
 - Part 2: Advanced Preprocessing Techniques and Natural Language Processing Applications for Social Media Datasets
 
-**Lectures:** [Tuesday](week_6/lecture_part1.ipynb)
+**Lectures:** [Tuesday](week_6/lecture_part1.ipynb) [Thursday](week_6/lecture_part2.ipynb)
 
-**Readings:** TBD
+**Readings:** [Link](Readings.md#week-6-intermediate-text-data-analysis-social-media-data-and-natural-language-processing)
 
 **Assignment:** TBD
 
@@ -167,4 +167,4 @@ Please take this [survey](https://forms.gle/Vu7eb5Pn3EaJo7ZW9) before **05/04/20
 
 ## Contribution
 
-The current repo is maintained by @yibeichan only. Feel free to open an PR if you identify any errors here. You are welcome to use/fork this repo for your own course. 
+The current repo is created and maintained by Yibei Chen with the assistance of ChatGPT. Feel free to open an PR if you identify any errors. You are welcome to use/fork this repo for your own course. 

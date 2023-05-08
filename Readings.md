@@ -41,6 +41,20 @@ Here are the weekly mandatory and optional readings, as well as some learning re
 - Natural Language Processing With Python's NLTK Package: [Link](https://realpython.com/nltk-nlp-python/)
 - A (Really) Gentle Introduction to NLP in Python: [Link](https://towardsai.net/p/nlp/natural-language-processing-nlp-with-python-tutorial-for-beginners-1f54e610a1a0)
 
+## Week 6: Intermediate Text Data Analysis, Social Media Data, and Natural Language Processing
+
+- Datasets Collection: [Link](https://github.com/shaypal5/awesome-twitter-data)
+- Package emoji document: [Link](https://carpedm20.github.io/emoji/docs/#extracting-emoji)
+- Text Cleaning for NLP: A Tutorial: [Link](https://monkeylearn.com/blog/text-cleaning/)
+- Simple NLP in Python with TextBlob: N-Grams Detection: [Link](https://stackabuse.com/simple-nlp-in-python-with-textblob-n-grams-detection/)
+- Collocations in NLP using NLTK library: [Link](https://towardsdatascience.com/collocations-in-nlp-using-nltk-library-2541002998db)
+- Python for NLP: Parts of Speech Tagging and Named Entity Recognition: [Link](https://stackabuse.com/python-for-nlp-parts-of-speech-tagging-and-named-entity-recognition/)
+
+## Week 7: Sentiment Analysis and Reproducible Text Analysis in Communication Research
+
+- A Beginner’s Guide to Sentiment Analysis with Python: [Link](https://towardsdatascience.com/a-beginners-guide-to-sentiment-analysis-in-python-95e354ea84f6)
+- (Advanced) Getting Started with Sentiment Analysis using Python: [Link](https://huggingface.co/blog/sentiment-analysis-python)
+
 ## Other Resources:
 
 - Python for Data Science Handbook by Jake VanderPlas: [Link](https://jakevdp.github.io/PythonDataScienceHandbook/)
