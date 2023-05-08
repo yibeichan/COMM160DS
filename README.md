@@ -116,6 +116,8 @@ Please take this [survey](https://forms.gle/Vu7eb5Pn3EaJo7ZW9) before **05/04/20
 - Part 1: Intermediate Text Data Analysis Techniques and Introduction to Social Media Data
 - Part 2: Advanced Preprocessing Techniques and Natural Language Processing Applications for Social Media Datasets
 
+**Lectures:** [Tuesday](week_6/lecture_part1.ipynb)
+
 **Readings:** TBD
 
 **Assignment:** TBD
