@@ -24,8 +24,6 @@ Here are the weekly mandatory and optional readings, as well as some learning re
 
 ## Week 3: Data Manipulation with Pandas and Data Provenance
 
-### Pandas Tutorial
-
 - Python Pandas Tutorial: The ultimate guide for beginners [Link](https://www.datacamp.com/tutorial/pandas)
 - Pandas Beginner's Course: [Link](https://www.kaggle.com/learn/pandas)
 - Pandas Tutorial Course: [Link](https://www.w3schools.com/python/pandas/default.asp)
@@ -37,7 +35,6 @@ Here are the weekly mandatory and optional readings, as well as some learning re
 
 ## Week 5: Data Exploration and Introduction to NLP
 
-## Natural Language Processing (NLP)
 - Natural Language Processing With Python's NLTK Package: [Link](https://realpython.com/nltk-nlp-python/)
 - A (Really) Gentle Introduction to NLP in Python: [Link](https://towardsai.net/p/nlp/natural-language-processing-nlp-with-python-tutorial-for-beginners-1f54e610a1a0)
 
