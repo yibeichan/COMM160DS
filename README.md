@@ -120,7 +120,7 @@ Please take this [survey](https://forms.gle/Vu7eb5Pn3EaJo7ZW9) before **05/04/20
 
 **Readings:** [Link](Readings.md#week-6-intermediate-text-data-analysis-social-media-data-and-natural-language-processing)
 
-**Assignment:** TBD
+**Assignment:**  [Link](week_6/assignment.md)
 
 ## Week 7: 
 
