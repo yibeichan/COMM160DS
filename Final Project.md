@@ -1,4 +1,4 @@
-# Final Project - Data Science in Communication
+# Final Project (Due: 06/12/2023 Midnight; 35%)
 
 ## Overview
 
@@ -21,10 +21,10 @@ Your project should include the following components:
 
 The project will be graded based on the following criteria:
 
-- Completion: Your project should contain all the required components.
-- Clarity and Reproducibility: Your project should be clear enough for people to understand. This includes clear explanations in the Jupyter notebook, good use of comments in your code, and clear visualizations. 
-- Creativity: Creativity will be assessed in terms of the analyses you choose and the visualization techniques you employ.
-- Code Quality: Your code should run without errors.
+- Completion (5%): Your project should contain all the required components.
+- Clarity and Reproducibility (10%): Your project should be clear enough for people to understand. This includes clear explanations in the Jupyter notebook, good use of comments in your code, and clear visualizations. 
+- Creativity and Suitability (10%): Creativity will be assessed in terms of the analyses you choose and the visualization techniques you employ. Suitability refers to whether the chosen analyses and visualization match your research questions.
+- Code Quality (10%): Your code should run without errors.
 
 ## Potential Data Sources
 

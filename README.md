@@ -2,7 +2,7 @@
 
 **Data Science in Communication: Python and Reproducible Research**
 
-**Instructor:** Yibei Chen
+**Instructor:** Yibei Chen (yibeichen@ucsb.edu)
 
 **Lectures:** Tuesdays/Thursdays 12\:30-1:45 pm (Arts Building, 1349)
 
@@ -12,7 +12,7 @@
 
 **JupyterHub:** [Link](https://comm160ds.lsit.ucsb.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fyibeichan%2FCOMM160DS&urlpath=lab%2Ftree%2FCOMM160DS%2F&branch=main)
 
-**GitHub Classroom:** See link on Canvas or my email
+**GitHub Classroom:** See link on Canvas or my email notification
 
 **Pull your GitHub Repo to JupyterHub**: [nbgitpuller](https://hub.jupyter.org/nbgitpuller/link)
 
@@ -127,13 +127,13 @@ Please take this [survey](https://forms.gle/Vu7eb5Pn3EaJo7ZW9) before **05/04/20
 **Sentiment Analysis and Reproducible Text Analysis in Communication Research**
 
 - Part 1: Reproducibile Sentiment Analysis using Social Media Data
-- Part 2: Q & A Session
+- Part 2: Q&A Session
 
 **Lectures:** [Tuesday](week_7/lecture_part1.ipynb) [Thursday](https://forms.gle/7fjqtLqLw7ktYYwu7)
 
 **Readings:** [Link](Readings.md#week-7-sentiment-analysis-and-reproducible-text-analysis-in-communication-research)
 
-**Assignment:** TBD
+**Assignment:** None
 
 ## Week 8: 
 
