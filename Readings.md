@@ -50,6 +50,7 @@ Here are the weekly mandatory and optional readings, as well as some learning re
 ## Week 7: Sentiment Analysis and Reproducible Text Analysis in Communication Research
 
 - A Beginner’s Guide to Sentiment Analysis with Python: [Link](https://towardsdatascience.com/a-beginners-guide-to-sentiment-analysis-in-python-95e354ea84f6)
+- Sentiment Analysis Using Python: [Link](https://www.analyticsvidhya.com/blog/2022/07/sentiment-analysis-using-python/)
 - (Advanced) Getting Started with Sentiment Analysis using Python: [Link](https://huggingface.co/blog/sentiment-analysis-python)
 
 ## Other Resources:

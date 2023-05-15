@@ -126,10 +126,12 @@ Please take this [survey](https://forms.gle/Vu7eb5Pn3EaJo7ZW9) before **05/04/20
 
 **Sentiment Analysis and Reproducible Text Analysis in Communication Research**
 
-- Part 1: Introduction to sentiment analysis and techniques using social media data
-- Part 2: Applications of sentiment analysis and ensuring reproducibility in text analysis projects
+- Part 1: Reproducibile Sentiment Analysis using Social Media Data
+- Part 2: Q & A Session
 
-**Readings:** TBD
+**Lectures:** [Tuesday](week_7/lecture_part1.ipynb) [Thursday](https://forms.gle/7fjqtLqLw7ktYYwu7)
+
+**Readings:** [Link](Readings.md#week-7-sentiment-analysis-and-reproducible-text-analysis-in-communication-research)
 
 **Assignment:** TBD
 
