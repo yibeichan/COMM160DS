@@ -1,5 +1,7 @@
 # Final Project (Due: 06/12/2023 Midnight; 35%)
 
+## GitHub Classroom: [Link](https://classroom.github.com/a/eDDs8OEu)
+
 ## Overview
 
 This is your final project for the Data Science in Communication course. You will work in groups (maximum 5 people) to apply the Python knowledge you've gained throughout this course to conduct a communication research project. The final deliverable will be a Jupyter notebook containing your code, visualizations, and a written explanation of your research process and findings.
