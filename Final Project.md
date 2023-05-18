@@ -38,4 +38,9 @@ Here are some potential sources for datasets you might want to consider for this
 - News Headlines Dataset for Sarcasm Detection: This dataset contains headlines from news articles, and each headline is labeled as being sarcastic or not. It was last updated in 2019. [Link](https://www.kaggle.com/rmisra/news-headlines-dataset-for-sarcasm-detection)
 - CrisisLexT26: This dataset contains a collection of Twitter datasets related to 26 crises that occurred from 2012 to 2019. It includes natural disasters like hurricanes, floods, earthquakes, and man-made incidents like bombings and shootings. [Link](https://crisislex.org/data-collections.html#CrisisLexT26)
 
+## Research Papers
+
+- Sentiment Analysis
+    - Park, S., Strover, S., Choi, J., & Schnell, M. (2023). Mind games: A temporal sentiment analysis of the political messages of the Internet Research Agency on Facebook and Twitter. New Media & Society, 25(3), 463–484. https://doi.org/10.1177/14614448211014355
+
 Good luck and have fun with your projects!
