@@ -73,7 +73,7 @@ Please take this [survey](https://forms.gle/dkTaauehBxCDqvpf8) before **04/04/20
 
 **Readings:** [Link](Readings.md#week-3-data-manipulation-with-pandas-and-data-provenance)
 
-**In-class Exercise:** [Link](https://classroom.github.com/a/OQym4pEV)｜[Instruction](week_3/assignment.md#in-class-exercise-friday-04212023-night)
+**In-class Exercise:** [Link](https://classroom.github.com/a/OQym4pEV) | [Instruction](week_3/assignment.md#in-class-exercise-friday-04212023-night) | [Solution](https://github.com/ReproTeach/w3-in-class-exercise/blob/main/week3_in-class_exercise.ipynb)
 
 **Assignment:** [Link](week_3/assignment.md)
 
@@ -87,6 +87,8 @@ Please take this [survey](https://forms.gle/dkTaauehBxCDqvpf8) before **04/04/20
 **Lectures:** [Tuesday](week_4/lecture_part1.ipynb) [Thursday](week_4/lecture_part2.ipynb)
 
 **Readings:** [Link](Readings.md#week-4-data-visualization-with-matplotlib-seaborn-and-reproducible-reporting)
+
+**In-class Exercise:** [Link](https://classroom.github.com/a/dzaORAq5) | [Instruction](week_4/assignment.md#in-class-exercise-due-thursday-04272023-midnight-5) | [Solution](https://github.com/ReproTeach/w4-in-class-exercise/blob/main/week4_in-class_exercise.ipynb)
 
 **Assignment:** [Link](week_4/assignment.md)
 
@@ -119,6 +121,8 @@ Please take this [survey](https://forms.gle/Vu7eb5Pn3EaJo7ZW9) before **05/04/20
 **Lectures:** [Tuesday](week_6/lecture_part1.ipynb) [Thursday](week_6/lecture_part2.ipynb)
 
 **Readings:** [Link](Readings.md#week-6-intermediate-text-data-analysis-social-media-data-and-natural-language-processing)
+
+**In-class Exercise:** [Link](https://classroom.github.com/a/rIluJxws) | [Instruction](week_6/assignment.md#in-class-exercise-due-05122023-midnight-6) | [Solution](https://github.com/ReproTeach/w6-in-class-exercise/blob/main/week6_in-class_exercise.ipynb)
 
 **Assignment:**  [Link](week_6/assignment.md)
 
