@@ -42,5 +42,18 @@ Here are some potential sources for datasets you might want to consider for this
 
 - Sentiment Analysis
     - Park, S., Strover, S., Choi, J., & Schnell, M. (2023). Mind games: A temporal sentiment analysis of the political messages of the Internet Research Agency on Facebook and Twitter. New Media & Society, 25(3), 463–484. https://doi.org/10.1177/14614448211014355
+    - Aslam, F., Awan, T. M., Syed, J. H., Kashif, A., & Parveen, M. (2020). Sentiments and emotions evoked by news headlines of coronavirus disease (COVID-19) outbreak. Humanities and Social Sciences Communications, 7(1). https://doi.org/10.1057/s41599-020-0523-3
+    - Young, L., & Soroka, S. (2012). Affective news: The automated coding of sentiment in political texts. Political Communication, 29(2), 205-231. https://doi.org/10.1080/10584609.2012.671234
+    - Soroka, S., Daku, M., Hiaeshutter-Rice, D., Guggenheim, L., & Pasek, J. (2018). Negativity and Positivity Biases in Economic News Coverage: Traditional Versus Social Media. Communication Research, 45(7), 1078–1098. https://doi.org/10.1177/0093650217725870
+    
+- Emoji
+    - Subramanian, J., Sridharan, V., Shu, K., & Liu, H. (2019). Exploiting emojis for sarcasm detection. In Social, Cultural, and Behavioral Modeling: 12th International Conference, SBP-BRiMS 2019, Washington, DC, USA, July 9–12, 2019, Proceedings 12 (pp. 70-80). Springer International Publishing. [Link](readings/subramanian_et_al_2019.pdf)
+    
+- Topic Modeling
+    - Maier, D., Waldherr, A., Miltner, P., Wiedemann, G., Niekler, A., Keinert, A., ... & Adam, S. (2018). Applying LDA topic modeling in communication research: Toward a valid and reliable methodology. Communication Methods and Measures, 12(2-3), 93-118. https://doi.org/10.1080/19312458.2018.1430754
+    - Guo, L., Vargo, C. J., Pan, Z., Ding, W., & Ishwar, P. (2016). Big social data analytics in journalism and mass communication: Comparing dictionary-based text analysis and unsupervised topic modeling. Journalism & Mass Communication Quarterly, 93(2), 332-359. https://doi.org/10.1177/1077699016639231
+    
+- Social Network Analysis
+    - Jackson, S. J., & Foucault Welles, B. (2015). Hijacking# myNYPD: Social media dissent and networked counterpublics. Journal of communication, 65(6), 932-952. https://doi.org/10.1111/jcom.12185
 
 Good luck and have fun with your projects!
