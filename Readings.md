@@ -53,6 +53,12 @@ Here are the weekly mandatory and optional readings, as well as some learning re
 - Sentiment Analysis Using Python: [Link](https://www.analyticsvidhya.com/blog/2022/07/sentiment-analysis-using-python/)
 - (Advanced) Getting Started with Sentiment Analysis using Python: [Link](https://huggingface.co/blog/sentiment-analysis-python)
 
+## Week 8: Topic Modeling and In-depth Exploration of Text Analysis Techniques
+
+- What Is Topic Modeling? A Beginner's Guide: [Link](https://levity.ai/blog/what-is-topic-modeling)
+- Topic Modeling and Latent Dirichlet Allocation (LDA) in Python: [Link](https://towardsdatascience.com/topic-modeling-and-latent-dirichlet-allocation-in-python-9bf156893c24)
+- pyLDAvis: Topic Modelling Exploration Tool That Every NLP Data Scientist Should Know: [Link](https://neptune.ai/blog/pyldavis-topic-modelling-exploration-tool-that-every-nlp-data-scientist-should-know)
+
 ## Other Resources:
 
 - Python for Data Science Handbook by Jake VanderPlas: [Link](https://jakevdp.github.io/PythonDataScienceHandbook/)

@@ -146,9 +146,13 @@ Please take this [survey](https://forms.gle/Vu7eb5Pn3EaJo7ZW9) before **05/04/20
 **Topic Modeling and In-depth Exploration of Text Analysis Techniques**
 
 - Part 1: Introduction to topic modeling and implementing topic modeling techniques
-- Part 2: In-depth exploration and discussion of sentiment analysis, topic modeling, and reproducible workflows
+- Part 2: Final Project 
 
-**Readings:** TBD
+**Lectures:** [Tuesday](week_8/lecture_part1.ipynb) [Thursday](https://classroom.github.com/a/eDDs8OEu)
+
+**Readings:** [Link](Readings.md#week-8-topic-modeling-and-in-depth-exploration-of-text-analysis-techniques)
+
+**Assignment:**  [Link](week_8/assignment.md)
 
 ## Week 9: 
 
