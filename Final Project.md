@@ -14,7 +14,7 @@ Your project should include the following components:
 - Research Questions: Pose research questions that are related to communication studies.
 - Dataset Description: Introduce your chosen dataset. Give a detailed description of what this dataset is about, and use the df.describe() function to provide a basic statistical description of the dataset. You can choose a dataset from surveys, social media, or news articles. Make sure your research questions and the chosen dataset are matching.
 - Preprocessing: Carry out the preprocessing of your chosen dataset, and justify why those preprocessing steps are related to your research questions.
-- Analysis: Choose 2-3 analyses that you have learned in this class (e.g., sentiment analysis, name entity recognition, part-of-speech tagging, collocation analysis, topic modeling, network analysis, etc.). Justify why you choose these analyses.
+- Analysis: Choose 2-3 analyses that you have learned in this class (e.g., sentiment analysis, name entity recognition, part-of-speech tagging, collocation analysis, topic modeling, network analysis, etc.). Justify why you choose these analyses. If there is only one method that suits your research goal the best, you can use one method only but make sure you use it at least twice (i.e., you have two different but related research questions that both involve this method).
 - Visualization: Use matplotlib and/or seaborn to visualize your results.
 - Results/Findings: Provide text descriptions for your results/findings.
 - Contribution: Specify each group member's contributions.
