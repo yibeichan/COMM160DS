@@ -143,33 +143,37 @@ Please take this [survey](https://forms.gle/Vu7eb5Pn3EaJo7ZW9) before **05/04/20
 
 ## Week 8: 
 
-**Topic Modeling and In-depth Exploration of Text Analysis Techniques**
+**Topic Modeling**
 
 - Part 1: Introduction to topic modeling and implementing topic modeling techniques
-- Part 2: Final Project 
+- Part 2: Final Project TIme
 
 **Lectures:** [Tuesday](week_8/lecture_part1.ipynb) [Thursday](https://classroom.github.com/a/eDDs8OEu)
 
-**Readings:** [Link](Readings.md#week-8-topic-modeling-and-in-depth-exploration-of-text-analysis-techniques)
+**Readings:** [Link](Readings.md#week-8-topic-modeling)
 
 **Assignment:**  [Link](week_8/assignment.md)
 
 ## Week 9: 
 
-**Network Analysis and Reproducible Data Collection**
+**Network Analysis**
 
-- Part 1: Introduction to network analysis and analyzing pre-collected network data
-- Part 2: Visualizing network graphs, ensuring reproducibility, and reproducible data collection strategies
+- Part 1: Introduction to network analysis and visualizing network graphs
+- Part 2: Final Project Time
 
-**Readings:** TBD
+**Lectures:** [Tuesday](week_9/lecture_part1.ipynb) [Thursday](https://classroom.github.com/a/eDDs8OEu)
+
+**Readings:** [Link](Readings.md#week-9-network-analysis)
+
+**Assignment:**  [Link](week_9/assignment.md)
 
 
 ## Week 10: 
 
 **Final Project Workshop, Presentations, and Course Wrap-up**
 
-- Part 1: Final project workshops, peer feedback sessions, and presentations of preliminary project results
-- Part 2: Discussing challenges, lessons learned, course wrap-up, and next steps in data science for communication research
+- Part 1: Final project presentations (preliminary results) and peer feedback sessions
+- Part 2: Optional
 
 **Readings:** TBD
 

@@ -53,11 +53,16 @@ Here are the weekly mandatory and optional readings, as well as some learning re
 - Sentiment Analysis Using Python: [Link](https://www.analyticsvidhya.com/blog/2022/07/sentiment-analysis-using-python/)
 - (Advanced) Getting Started with Sentiment Analysis using Python: [Link](https://huggingface.co/blog/sentiment-analysis-python)
 
-## Week 8: Topic Modeling and In-depth Exploration of Text Analysis Techniques
+## Week 8: Topic Modeling 
 
 - What Is Topic Modeling? A Beginner's Guide: [Link](https://levity.ai/blog/what-is-topic-modeling)
 - Topic Modeling and Latent Dirichlet Allocation (LDA) in Python: [Link](https://towardsdatascience.com/topic-modeling-and-latent-dirichlet-allocation-in-python-9bf156893c24)
 - pyLDAvis: Topic Modelling Exploration Tool That Every NLP Data Scientist Should Know: [Link](https://neptune.ai/blog/pyldavis-topic-modelling-exploration-tool-that-every-nlp-data-scientist-should-know)
+
+## Week 9: Network Analysis
+
+- Exploring and Analyzing Network Data with Python: [Link](https://programminghistorian.org/en/lessons/exploring-and-analyzing-network-data-with-python)
+- Social Network Analysis: From Graph Theory to Applications with Python: [Link](https://towardsdatascience.com/social-network-analysis-from-theory-to-applications-with-python-d12e9a34c2c7)
 
 ## Other Resources:
 
