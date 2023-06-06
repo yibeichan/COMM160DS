@@ -16,7 +16,7 @@
 
 **Pull your GitHub Repo to JupyterHub**: [nbgitpuller](https://hub.jupyter.org/nbgitpuller/link)
 
-**Final Project:** [Link](https://classroom.github.com/a/eDDs8OEu) | [Instruction](https://github.com/yibeichan/COMM160DS/blob/main/Final%20Project.md) | [Presentations](https://docs.google.com/spreadsheets/d/1pd-ZFoolkNdavB92fABnGsD0y1B8f6ZDBgz426b1ZeM/edit#gid=1576217296)
+**Final Project:** [Link](https://classroom.github.com/a/eDDs8OEu) | [Instruction](https://github.com/yibeichan/COMM160DS/blob/main/Final%20Project.md) | [Presentations](https://docs.google.com/spreadsheets/d/1LwucEGkWSG9maQdSibBRdystX_KBRE6GYD8Q7N_uqiY/edit?usp=sharing)
 
 ## Course Description:
 This 10-week course introduces senior undergraduates in the Department of Communication to the fundamentals of data science using Python, focusing on reproducible research practices. Students will learn essential Python libraries, data visualization techniques, and principles of reproducible research to analyze and interpret data in the context of communication and social science research. By the end of the course, students will be able to apply these skills to a final project analyzing real-world communication data while ensuring their work is transparent, shareable, and reproducible.
